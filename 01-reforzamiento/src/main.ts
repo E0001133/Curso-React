@@ -1,6 +1,7 @@
 import './style.css'
 //import './bases/02-template-string'
-import './bases/03-object-lite'
+//import './bases/03-object-lite'
+import './bases/04-interfaces'
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
