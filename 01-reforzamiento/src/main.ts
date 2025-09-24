@@ -3,7 +3,8 @@ import './style.css'
 //import './bases/03-object-lite'
 //import './bases/04-interfaces'
 //import './bases/05-arreglos'
-import './bases/06-funciones'
+//import './bases/06-funciones'
+import './bases/07-desestrucuturacion'
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
